@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+*{
+    margin: 0;
+    padding: 0; 
+    background-color:beige;
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    font-size: 1em;
+}
+
+.logo{
+    text-align: center;
+    color: brown;
+    padding: 30px 30px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav ul{
+    list-style: none;    
+}
+nav ul li {
+    display:contents;
+    
+}
+nav ul li a{
+    padding: 10px 10px;
+    margin: 50px 100px;
+    text-decoration: none;    
+}
+
+nav ul li a:hover {
+    font-size: 18px;
+    border-style:double;
+    color: rgb(59, 40, 40);
+}
+
+section{
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    list-style-position: inside;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+section article p{
+    padding: 30px ;
+    margin: 10px;
+}
+section article p a{
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+section article p a:hover {
+    color: crimson;
+    text-decoration: none;
+}
+section h3{
+    margin: 20px;
+}
+
+section article h2 {
+    padding: 20px;
+    color:darkred;
+
+}
+
+section article ul {
+    list-style: none;
+    padding: 15px ;
+    margin: 20px;
+}
+
+section article ul li {
+    padding: 20px ;
+}
+
+section article ul li span {
+    margin: 50px 10px;
+    color:lightslategray ;
+}
+
+
+img {
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+    flex-direction: column;
+}

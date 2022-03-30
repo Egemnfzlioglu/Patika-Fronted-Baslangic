@@ -1,0 +1,5 @@
+# patika-boostrap-odev
+
+## ILERLEYEN ZAMANDA DETAYLI ŞEKİLDE OLUSTURULUCAKTIR....
+
+# ŞİMDİ ÖĞRENMEYE DEVAM :)

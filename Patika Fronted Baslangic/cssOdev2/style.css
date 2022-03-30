@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1400px;
+    margin: 0px auto;
+    padding: 0px auto;    
+}
+
+nav {
+    justify-content: center;
+    width: 29%;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+section div {
+    text-align: center;
+    padding: 0 auto;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+    
+}
+
+section div input {
+    padding:1px auto;
+    margin: 1px auto;
+    width: 250px;
+    font-size: 16px; 
+}
+
+.div{
+height: 80px;
+text-align: center;
+}
+
+
+.birincidiv{
+    background-color: #7EE5DA;
+    float: left;
+    width: 41.5%;
+    margin:1px 1px;
+
+}
+
+.ikincidiv{
+    background-color: #7EE5DA;
+    float:left;
+    width: 25%;
+    margin:1px 1px;
+}
+.ücüncüdiv{
+    background-color: #7EE5DA;
+    float: left;
+    width: 33%;
+    margin:1px 1px;
+}
+
+
+
